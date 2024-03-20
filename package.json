@@ -1,0 +1,16 @@
+{
+  "name": "a5b_25_simple_calculator",
+  "version": "1.1.2",
+  "description": "A simple calculator ,Node.js and inqurer",
+  "main": "index.js",
+  "type": "module",
+  "bin" : "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  }
+}
